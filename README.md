@@ -21,6 +21,7 @@ Dưới đây là danh sách các thư viện phổ biến, thường được s
 | Tailwind CSS      | `npm install -D tailwindcss postcss autoprefixer`                          |
 | Ant Design        | `npm install antd`                                                         |
 | Material UI (MUI) | `npm install @mui/material @emotion/react @emotion/styled`                 |
+| Icon              | `npm install react-icons --save`                 |
 
 ---
 
